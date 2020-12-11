@@ -1,0 +1,8 @@
+name: GodBridging
+version: @version@
+main: me.marcusslover.godbridging.GodBridging
+authors: [ MarcusSlover ]
+description: Allows you to become a God at speed bridging.
+
+commands:
+  gb:
